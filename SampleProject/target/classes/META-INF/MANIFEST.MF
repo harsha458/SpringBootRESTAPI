@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SampleProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: harsha
+Implementation-Vendor-Id: com.user.UserApplication
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/SampleProjec
+ t/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
